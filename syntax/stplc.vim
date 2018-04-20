@@ -17,6 +17,7 @@ syn keyword stplcBoolean true false
 syn keyword stplcConditional if else then elseif elsif end_if case end_case
 syn keyword stplcStatement function_block end_function_block var end_var var_input var_output var_in_out var_config program end_program
 syn keyword stplcType string bool sint dint int
+syn keyword stplcType USINT DWORD
 
 
 " control flow function
